@@ -1,0 +1,40 @@
+[src="https://sun6-21.userapi.com/s/v1/ig2/z0LHJiH5kuHBI9JLHpgQQhdiC6FJFbfcFkZQ0Gj9Ytrdkvk_Ivv-9hMj_D3p_l5X9WGH_pWIhN_5_dEMuYO67Y_M.jpg?size=50x50&quality=95&crop=59,63,337,337&ava=1"] {
+    content: url(https://i.ibb.co/TMnTmnP/6575656.png);
+}
+
+[src="https://sun6-20.userapi.com/s/v1/ig2/eAd7985DTYSv5ETTtQPgXhd1J2Kn2s3M_8EjKXbKuWvRa2Q3OmsylRULOi0GYDkjKtox6srshmq5yDhRJ1SXkssR.jpg?size=50x50&quality=95&crop=43,175,262,262&ava=1"] {
+     content: url(https://i.ibb.co/59n2QBk/855.png);
+}
+
+.im-mess-stack--pname [href="/nanashi_baka"]:before,
+span.im-page--title-main-in [href="/nanashi_baka"]:before {
+    content: 'Satanчик';
+    font-size: 12.5px;
+}
+
+.im-mess-stack--pname [href="/id542352957"]:before {
+    content: 'Мурлок';
+    font-size: 12.5px;
+}
+
+
+span.im-page--title-main-in [href="/nanashi_baka"]:before,
+[title="Nanashi Baka"] span.ui_rmenu_label-text:before {
+    content: 'Satanчик Директор Ада';
+    font-size: 12.5px;
+}
+
+span.im-page--title-main-in [href="/id542352957"]:before,
+[title="Иисус Христос"] span.ui_rmenu_label-text:before {
+    content: 'Мурлок Нейтронный';
+    font-size: 12.5px;
+}
+
+.im-mess-stack--pname [href="/nanashi_baka"],
+span.im-page--title-main-in [href="/nanashi_baka"],
+.im-mess-stack--pname [href="/id542352957"],
+[title="Nanashi Baka"] span.ui_rmenu_label-text,
+span.im-page--title-main-in [href="/id542352957"],
+[title="Иисус Христос"] span.ui_rmenu_label-text {
+    font-size: 0;
+}
