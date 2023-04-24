@@ -1,8 +1,8 @@
-.nim-peer--photo [alt="Nanashi"] {
+.nim-peer--photo [alt="Nanashi"],[href="/nanashi_baka"] img {
     content: url(https://i.ibb.co/TMnTmnP/6575656.png);
 }
 
-.nim-peer--photo [alt="Иисус"] {
+.nim-peer--photo [alt="Иисус"],[href="/id542352957"] img {
      content: url(https://i.ibb.co/59n2QBk/855.png);
 }
 
