@@ -1,8 +1,8 @@
-[src="https://sun6-21.userapi.com/s/v1/ig2/z0LHJiH5kuHBI9JLHpgQQhdiC6FJFbfcFkZQ0Gj9Ytrdkvk_Ivv-9hMj_D3p_l5X9WGH_pWIhN_5_dEMuYO67Y_M.jpg?size=50x50&quality=95&crop=59,63,337,337&ava=1"] {
+.nim-peer--photo [alt="Nanashi"] {
     content: url(https://i.ibb.co/TMnTmnP/6575656.png);
 }
 
-[src="https://sun6-20.userapi.com/s/v1/ig2/eAd7985DTYSv5ETTtQPgXhd1J2Kn2s3M_8EjKXbKuWvRa2Q3OmsylRULOi0GYDkjKtox6srshmq5yDhRJ1SXkssR.jpg?size=50x50&quality=95&crop=43,175,262,262&ava=1"] {
+.nim-peer--photo [alt="Иисус"] {
      content: url(https://i.ibb.co/59n2QBk/855.png);
 }
 
